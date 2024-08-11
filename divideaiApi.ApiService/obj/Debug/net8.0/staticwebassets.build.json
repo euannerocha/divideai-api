@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oAdscvF2LuBZF3rw+z5yIc204bzmyXo9HjQ7bv5KptM=",
+  "Source": "divideaiApi.ApiService",
+  "BasePath": "_content/divideaiApi.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
